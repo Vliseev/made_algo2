@@ -5,7 +5,6 @@
 #include <vector>
 
 using namespace std;
-
 static const int INF = std::numeric_limits<int>::max();
 static const int64_t LONG_INF = std::numeric_limits<int64_t>::max();
 
